@@ -10,3 +10,11 @@ import Foundation
 
 print("Hello, World!")
 
+// $ mkdir learngit
+// $ cd learngit
+// $ pwd
+// /Users/jane/learngit
+
+
+
+
